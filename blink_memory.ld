@@ -1,0 +1,5 @@
+MEMORY
+{
+    FLASH(rwx) : ORIGIN = 0x10080000, LENGTH = 1024k - 0x80000
+}
+
