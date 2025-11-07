@@ -59,3 +59,7 @@ Para interagir com a placa após a gravação:
     Configure o Terminal: Abra o Minicom ou VS Code Serial Monitor e defina o baud rate para 921600.
 
     O menu aparecerá automaticamente. Digite a opção desejada (1, 2, 3 ou 0) e pressione Enter.
+
+# Raspberry-Pi-Pico-Bootloader-Interativo-via-Serial-USB
+"Menu de controle CLI para Raspberry Pi Pico com interface gráfica aprimorada (códigos ANSI, cores e centralização). O projeto foca em soluções robustas para falhas de timing e leitura de entrada em comunicação serial de alta velocidade 
+
